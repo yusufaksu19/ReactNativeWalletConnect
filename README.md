@@ -1,1 +1,3 @@
-yarn install -- yarn start# ReactNativeWalletConnect
+# ReactNativeWalletConnect
+
+yarn install -- yarn start
